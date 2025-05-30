@@ -85,3 +85,13 @@ npm start <br>
 cd client <br>
 npm start <br>
 
+<h2> Website Output screenshots: </h2>
+![image](https://github.com/user-attachments/assets/8ed419fc-ba2d-4c11-afa8-6793fb842d5a)
+![image](https://github.com/user-attachments/assets/56b62a2f-e31f-46f5-b38e-676bfce144ea)
+![image](https://github.com/user-attachments/assets/fd0805c0-862f-483c-8aff-7d2f052c278b)
+![image](https://github.com/user-attachments/assets/273b4bb0-c985-4c6b-b3d8-00746369adae)
+![image](https://github.com/user-attachments/assets/f51a8927-812c-4ba1-b92a-adaccd64d5e6)
+
+
+
+
