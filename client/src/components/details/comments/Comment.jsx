@@ -8,15 +8,14 @@ import { DataContext } from "../../../context/DataProvider";
 
 const Component = styled(Box)`
     margin-top: 30px;
-   
-    background:linear-gradient(to right, #6a11cb, #2575fc);
+    background:white;
     padding: 10px;
 `;
 
 const Container = styled(Box)`
     display: flex;
     margin-bottom: 5px;
-    background:linear-gradient(to right, #6a11cb, #2575fc);
+    background:white;
 `;
 
 const Name = styled(Typography)`
