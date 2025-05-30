@@ -71,7 +71,7 @@ Create a .env file in the server directory and add:<br>
 
 ACCESS_SECRET_KEY=yourAccessSecret <br>
 REFRESH_SECRET_KEY=yourRefreshSecret <br>
-MONGODB_URI=mongodb://localhost:27017/blogdb <br>
+MONGODB_URI=yourMongoDBURI <br>
 <b>Run the Application</b><br><br>
 
 <b>Start the backend</b> <br>
