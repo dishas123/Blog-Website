@@ -1,0 +1,99 @@
+<h1>CodeCraft Chronicles – Student Blog Platform</h1>
+
+<b>CodeCraft Chronicles</b> is a full-stack MERN application built to support students preparing for software engineering internships and placements. It allows users to sign up, log in, and create, edit, or delete blog posts across several preparation categories including DSA, Web Development, CS Fundamentals, Resume Building, and Aptitude.
+
+The aim of this platform is to help students share their experiences, roadmaps, and learning strategies, so others can learn from their journeys and grow together.
+
+<br>
+
+<h2>Features</h2>
+
+<ul>
+  <li><b>User Authentication</b><br>
+    - Signup and Login using JWT-based authentication<br>
+    - Passwords securely hashed using Bcrypt
+  </li>
+  <li><b>Blog CRUD Operations</b><br>
+    - Create, read, update, and delete blogs
+  </li>
+  <li><b>Protected Routes</b><br>
+    - Only authenticated users can modify content
+  </li>
+  <li><b>Blog Categories</b><br>
+    - DSA<br>
+    - Web Development<br>
+    - CS Fundamentals<br>
+    - Resume Building<br>
+    - Aptitude
+  </li>
+  <li><b>Peer Learning</b><br>
+    - Learn from other students' experiences and mistakes
+  </li>
+</ul>
+
+<br>
+
+<h2>Tech Stack</h2>
+
+<b>Frontend</b><br>
+- React.js<br>
+- Material-UI (MUI)<br>
+- Axios<br><br>
+
+<b>Backend</b><br>
+- Node.js<br>
+- Express.js<br>
+- MongoDB with Mongoose<br>
+- JSON Web Tokens (JWT)<br>
+- Bcrypt<br>
+
+<br>
+
+<h2>Setup Instructions</h2>
+
+<b>Clone the repository</b><br>
+
+```bash
+git clone https://github.com/your-username/codecraft-chronicles.git
+cd codecraft-chronicles
+<b>Install dependencies</b><br><br>
+
+<b>Backend</b>
+
+bash
+Copy
+Edit
+cd server
+npm install
+<b>Frontend</b>
+
+bash
+Copy
+Edit
+cd client
+npm install
+<b>Configure Environment Variables</b><br>
+Create a <code>.env</code> file in the <code>server</code> directory and add:
+
+env
+Copy
+Edit
+ACCESS_SECRET_KEY=yourAccessSecret
+REFRESH_SECRET_KEY=yourRefreshSecret
+MONGODB_URI=mongodb://localhost:27017/blogdb
+<b>Run the Application</b><br><br>
+
+<b>Start the backend</b>
+
+bash
+Copy
+Edit
+cd server
+npm start
+<b>Start the frontend</b>
+
+bash
+Copy
+Edit
+cd client
+npm start
