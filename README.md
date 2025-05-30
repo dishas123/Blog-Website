@@ -49,51 +49,39 @@ The aim of this platform is to help students share their experiences, roadmaps, 
 
 <br>
 
-<h2>Setup Instructions</h2>
+<h2>Setup Instructions</h2> <br>
 
 <b>Clone the repository</b><br>
 
-```bash
-git clone https://github.com/your-username/codecraft-chronicles.git
-cd codecraft-chronicles
+git clone https://github.com/dishas123/Blog-Website.git<br>
+cd Blog-Website<br>
 <b>Install dependencies</b><br><br>
 
-<b>Backend</b>
+<b>Backend</b> <br>
+cd server <br>
+npm install<br>
+<b>Frontend</b> <br>
 
-bash
-Copy
-Edit
-cd server
-npm install
-<b>Frontend</b>
 
-bash
-Copy
-Edit
-cd client
-npm install
+cd client<br>
+npm install<br>
 <b>Configure Environment Variables</b><br>
-Create a <code>.env</code> file in the <code>server</code> directory and add:
+Create a .env file in the server directory and add:<br>
 
-env
-Copy
-Edit
-ACCESS_SECRET_KEY=yourAccessSecret
-REFRESH_SECRET_KEY=yourRefreshSecret
-MONGODB_URI=mongodb://localhost:27017/blogdb
+
+ACCESS_SECRET_KEY=yourAccessSecret <br>
+REFRESH_SECRET_KEY=yourRefreshSecret <br>
+MONGODB_URI=mongodb://localhost:27017/blogdb <br>
 <b>Run the Application</b><br><br>
 
-<b>Start the backend</b>
+<b>Start the backend</b> <br>
 
-bash
-Copy
-Edit
-cd server
-npm start
-<b>Start the frontend</b>
 
-bash
-Copy
-Edit
-cd client
-npm start
+cd server <br>
+npm start <br>
+<b>Start the frontend</b> <br>
+
+
+cd client <br>
+npm start <br>
+
