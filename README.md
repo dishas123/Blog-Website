@@ -53,7 +53,7 @@ The aim of this platform is to help students share their experiences, roadmaps, 
 
 <b>Clone the repository</b><br>
 
-git clone https://github.com/dishas123/Blog-Website.git<br>
+git clone https://github.com/dishas123/CodeCraft-Chronicles.git<br>
 cd Blog-Website<br>
 <b>Install dependencies</b><br><br>
 
