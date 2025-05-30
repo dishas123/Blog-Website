@@ -117,7 +117,7 @@ const Update = () => {
 
             <StyledTextArea
                 rowsMin={5}
-                placeholder="Tell your story..."
+                placeholder="Share your thoughts..."
                 name='description'
                 onChange={(e) => handleChange(e)} 
                 value={post.description}
