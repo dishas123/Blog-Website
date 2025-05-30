@@ -39,7 +39,7 @@ const Contact = () => {
                 <Text variant="h6">
                     Reach out to me on
                     <Link 
-                        href="https://www.linkedin.com/in/your-linkedin-id/" 
+                        href="https://www.linkedin.com/in/disha-s-a60b70248/" 
                         color="inherit" 
                         target="_blank" 
                         sx={{ mx: 1 }}
