@@ -87,9 +87,12 @@ npm start <br>
 
 <h2> Website Output screenshots: </h2>  <br>
 ![image](https://github.com/user-attachments/assets/8ed419fc-ba2d-4c11-afa8-6793fb842d5a)  <br>
+
 ![image](https://github.com/user-attachments/assets/56b62a2f-e31f-46f5-b38e-676bfce144ea)  <br>
-![image](https://github.com/user-attachments/assets/fd0805c0-862f-483c-8aff-7d2f052c278b) <br>
-![image](https://github.com/user-attachments/assets/65ee1d52-daac-48dd-bc71-94ab24075e8c) <br>
+![image](https://github.com/user-attachments/assets/c20ae092-7cc0-411a-ab8f-72f6955412c1)  <br>
+![image](https://github.com/user-attachments/assets/399084c9-2205-4529-a70c-bc43d18e73dc)  <br>
+
+
 ![image](https://github.com/user-attachments/assets/f51a8927-812c-4ba1-b92a-adaccd64d5e6) <br>
 
 
