@@ -9,7 +9,7 @@ import { DataContext } from '../../context/DataProvider';
 
 const BackgroundWrapper = styled(Box)`
    background: linear-gradient(to right, #4b6cb7, #182848); 
-   /*background: white;*/
+
     min-height: 100vh;
     width: 100%;
 `;
