@@ -123,12 +123,12 @@ const CreatePost = () => {
                         onChange={(e) => setFile(e.target.files[0])}
                     />
                     <InputTextField onChange={(e) => handleChange(e)} name='title' placeholder="Title" />
-                    <Button onClick={() => savePost()} variant="contained" color="primary">Publish</Button>
+                    <Button onClick={() => savePost()} variant="contained" color="primary">Share</Button>
                 </StyledFormControl>
 
                 <Textarea
                     rowsMin={5}
-                    placeholder="Tell your story..."
+                    placeholder="Share your thoughts..."
                     name='description'
                     onChange={(e) => handleChange(e)}
                 />
