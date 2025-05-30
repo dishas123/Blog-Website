@@ -80,7 +80,7 @@ const CreatePost = () => {
     const [file, setFile] = useState('');
     const { account } = useContext(DataContext);
 
-    //const url = post.picture ? post.picture : 'https://i.redd.it/ekj9j1wcqvf21.jpg';
+    
     const url = post.picture ? post.picture : '/images/imgg.png';
     useEffect(() => {
         const getImage = async () => {
