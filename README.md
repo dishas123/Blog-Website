@@ -26,6 +26,12 @@ The aim of this platform is to help students share their experiences, roadmaps, 
     - Resume Building<br>
     - Aptitude
   </li>
+  <li><b>User Comment Option</b><br>
+    -Users can comment on others' blog posts
+  </li>
+   <li><b>Image upload Option</b><br>
+    -Users can upload images along with their blog contents.
+  </li>
   <li><b>Peer Learning</b><br>
     - Learn from other students' experiences and mistakes
   </li>
